@@ -1,0 +1,75 @@
+C:\Users\Admin\OneDrive\Máy tính\lập trình NET\code\windowform tu_hoc\TestVerDoAn\TestVerDoAn\bin\Debug\TestVerDoAn.exe.config
+C:\Users\Admin\OneDrive\Máy tính\lập trình NET\code\windowform tu_hoc\TestVerDoAn\TestVerDoAn\bin\Debug\TestVerDoAn.exe
+C:\Users\Admin\OneDrive\Máy tính\lập trình NET\code\windowform tu_hoc\TestVerDoAn\TestVerDoAn\bin\Debug\TestVerDoAn.pdb
+C:\Users\Admin\OneDrive\Máy tính\lập trình NET\code\windowform tu_hoc\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\lập trình NET\code\windowform tu_hoc\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.FrmDangNhap.resources
+C:\Users\Admin\OneDrive\Máy tính\lập trình NET\code\windowform tu_hoc\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.frmMenuChinh.resources
+C:\Users\Admin\OneDrive\Máy tính\lập trình NET\code\windowform tu_hoc\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.frmQuanLyKH.resources
+C:\Users\Admin\OneDrive\Máy tính\lập trình NET\code\windowform tu_hoc\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.frmQuanLyTour.resources
+C:\Users\Admin\OneDrive\Máy tính\lập trình NET\code\windowform tu_hoc\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.frmSuaKH.resources
+C:\Users\Admin\OneDrive\Máy tính\lập trình NET\code\windowform tu_hoc\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.frmThemKH.resources
+C:\Users\Admin\OneDrive\Máy tính\lập trình NET\code\windowform tu_hoc\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.frmThemTour.resources
+C:\Users\Admin\OneDrive\Máy tính\lập trình NET\code\windowform tu_hoc\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Máy tính\lập trình NET\code\windowform tu_hoc\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Máy tính\lập trình NET\code\windowform tu_hoc\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\lập trình NET\code\windowform tu_hoc\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.exe
+C:\Users\Admin\OneDrive\Máy tính\lập trình NET\code\windowform tu_hoc\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.pdb
+C:\Users\Admin\OneDrive\Máy tính\lập trình NET\code\windowform tu_hoc\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.frmQuanLyNV.resources
+C:\Users\Admin\OneDrive\Máy tính\lập trình NET\code\windowform tu_hoc\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.frmThemNV.resources
+C:\Users\Admin\OneDrive\Máy tính\lập trình NET\code\windowform tu_hoc\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.frmSuaNV.resources
+C:\Users\Admin\OneDrive\Máy tính\lập trình NET\code\windowform tu_hoc\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.frmQuanLyHopDong.resources
+C:\Users\Admin\OneDrive\Máy tính\lập trình NET\code\windowform tu_hoc\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.frmSuaTour.resources
+C:\Users\Admin\OneDrive\Máy tính\lập trình NET\code\windowform tu_hoc\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.frmThanhToan.resources
+C:\Users\Admin\OneDrive\Máy tính\lập trình NET\code\windowform tu_hoc\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.frmDKTouTheoNhuCau.resources
+C:\Users\Admin\OneDrive\Máy tính\lập trình NET\code\windowform tu_hoc\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.frmDKTourCoSan.resources
+C:\Users\Admin\OneDrive\Máy tính\lập trình NET\code\windowform tu_hoc\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.frmThemHopDong.resources
+C:\Users\Admin\OneDrive\Máy tính\lập trình NET\code\windowform tu_hoc\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.rounded.resources
+D:\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.csproj.AssemblyReference.cache
+D:\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.frmDKTouTheoNhuCau.resources
+D:\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.FrmDangNhap.resources
+D:\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.frmMenuChinh.resources
+D:\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.frmQuanLyHopDong.resources
+D:\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.frmQuanLyKH.resources
+D:\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.frmQuanLyNV.resources
+D:\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.frmQuanLyTour.resources
+D:\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.frmSuaKH.resources
+D:\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.frmSuaNV.resources
+D:\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.frmSuaTour.resources
+D:\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.frmThanhToan.resources
+D:\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.frmThemHopDong.resources
+D:\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.frmThemKH.resources
+D:\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.frmThemNV.resources
+D:\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.frmThemTour.resources
+D:\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.frmDKTourCoSan.resources
+D:\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.Properties.Resources.resources
+D:\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.rounded.resources
+D:\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.csproj.GenerateResource.cache
+D:\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.csproj.CoreCompileInputs.cache
+D:\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.exe
+D:\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.pdb
+H:\Downloads\TestVerDoAn (1)\TestVerDoAn\TestVerDoAn\bin\Debug\TestVerDoAn.exe.config
+H:\Downloads\TestVerDoAn (1)\TestVerDoAn\TestVerDoAn\bin\Debug\TestVerDoAn.exe
+H:\Downloads\TestVerDoAn (1)\TestVerDoAn\TestVerDoAn\bin\Debug\TestVerDoAn.pdb
+H:\Downloads\TestVerDoAn (1)\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.csproj.AssemblyReference.cache
+H:\Downloads\TestVerDoAn (1)\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.frmDKTouTheoNhuCau.resources
+H:\Downloads\TestVerDoAn (1)\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.FrmDangNhap.resources
+H:\Downloads\TestVerDoAn (1)\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.frmMenuChinh.resources
+H:\Downloads\TestVerDoAn (1)\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.frmQuanLyHopDong.resources
+H:\Downloads\TestVerDoAn (1)\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.frmQuanLyKH.resources
+H:\Downloads\TestVerDoAn (1)\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.frmQuanLyNV.resources
+H:\Downloads\TestVerDoAn (1)\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.frmQuanLyTour.resources
+H:\Downloads\TestVerDoAn (1)\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.frmSuaKH.resources
+H:\Downloads\TestVerDoAn (1)\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.frmSuaNV.resources
+H:\Downloads\TestVerDoAn (1)\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.frmSuaTour.resources
+H:\Downloads\TestVerDoAn (1)\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.frmThanhToan.resources
+H:\Downloads\TestVerDoAn (1)\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.frmThemHopDong.resources
+H:\Downloads\TestVerDoAn (1)\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.frmThemKH.resources
+H:\Downloads\TestVerDoAn (1)\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.frmThemNV.resources
+H:\Downloads\TestVerDoAn (1)\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.frmThemTour.resources
+H:\Downloads\TestVerDoAn (1)\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.frmDKTourCoSan.resources
+H:\Downloads\TestVerDoAn (1)\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.Properties.Resources.resources
+H:\Downloads\TestVerDoAn (1)\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.rounded.resources
+H:\Downloads\TestVerDoAn (1)\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.csproj.GenerateResource.cache
+H:\Downloads\TestVerDoAn (1)\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.csproj.CoreCompileInputs.cache
+H:\Downloads\TestVerDoAn (1)\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.exe
+H:\Downloads\TestVerDoAn (1)\TestVerDoAn\TestVerDoAn\obj\Debug\TestVerDoAn.pdb
